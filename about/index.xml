@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on SEADS</title>
-    <link>https://seads-agency.github.io/web/about/</link>
+    <link>https://seads-agency.github.io/seads_web/about/</link>
     <description>Recent content in About on SEADS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://seads-agency.github.io/web/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://seads-agency.github.io/seads_web/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
